@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { student } from '../models/student';
+import { student } from '../../models/student';
 
 @Component({
   selector: 'app-list-of-student',
